@@ -1,0 +1,11 @@
+﻿<Window x:Class="EarleyUI.ChartViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:node="clr-namespace:EarleyUI.UserControls"
+        Title="ChartViewer" Height="350" Width="700">
+    <Grid>
+        <Canvas Name="canvas">
+            
+        </Canvas>
+    </Grid>
+</Window>

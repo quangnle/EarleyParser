@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarleyParser", "EarleyParser\EarleyParser.csproj", "{054ACF4F-E5E7-4AEC-AFA6-049763EFB3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarleyUI", "EarleyUI\EarleyUI.csproj", "{018463D2-E6B5-49B2-B83A-F82D949B396B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreParser", "CoreParser\CoreParser.csproj", "{01138463-AA1D-47E3-8DC2-E05E8F902464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054ACF4F-E5E7-4AEC-AFA6-049763EFB3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054ACF4F-E5E7-4AEC-AFA6-049763EFB3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054ACF4F-E5E7-4AEC-AFA6-049763EFB3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054ACF4F-E5E7-4AEC-AFA6-049763EFB3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018463D2-E6B5-49B2-B83A-F82D949B396B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018463D2-E6B5-49B2-B83A-F82D949B396B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018463D2-E6B5-49B2-B83A-F82D949B396B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018463D2-E6B5-49B2-B83A-F82D949B396B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01138463-AA1D-47E3-8DC2-E05E8F902464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01138463-AA1D-47E3-8DC2-E05E8F902464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01138463-AA1D-47E3-8DC2-E05E8F902464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01138463-AA1D-47E3-8DC2-E05E8F902464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
